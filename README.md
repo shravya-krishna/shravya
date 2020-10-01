@@ -1,3 +1,3 @@
 # shravya
 Hacktoberfest
-## hey Shravya K B
+## hey Shravya KB
